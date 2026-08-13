@@ -46,3 +46,39 @@ Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
 
 ```
+
+### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
+[Website](https://provider.jirayu.net) <br />
+Version 4.0.8 | salee-plugin (Proxy) <br />
+```bash
+Host : lavalink.jirayu.net
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
+
+### Hosted by @ [TriniumHost](https://triniumhost.com)
+[Live Stats](https://lavalink-status.triniumhost.com) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+
+Version 4.x.x
+```bash
+Host : lavalink-v4.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true
+```
+
+Version: Nodelink 3.x.x
+```bash
+Host : nodelink.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true
+```
+
+```bash
+Host : nodelink-02.triniumhost.com
+Port : 443
+Password : "trinium"
+Secure : true
+```

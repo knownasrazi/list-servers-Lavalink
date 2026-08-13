@@ -73,3 +73,23 @@ Password : "lavalinklol"
 Secure : false
 ```
 
+### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
+Version 4.x | TH Node
+[Website](https://chanom.kasawa.pro)
+```bash
+Host : lava2.kasawa.pro
+Port : 2334
+Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [MineCuta](https://minecuta.com)
+[Live Stats](https://lavastatus.minecuta.com/) | [Support server](https://discord.gg/gKuXdHs)
+Version 4.x | youtube-plugin
+```bash
+Host : lavav4.minecuta.com
+Port : 2333
+Password : "discord.gg/gKuXdHs"
+Secure : false
+```
+
