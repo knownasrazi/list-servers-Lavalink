@@ -92,24 +92,3 @@ Port : 443
 Password : "nazhafreelava"
 Secure : true
 ```
-
-```bash
-Host : sg-1.nazha.online
-Port : 443
-Password : "https://discord.gg/XeSCnk57ZF"
-Secure : true
-```
-
-```bash
-Host : sg-2.nazha.online
-Port : 443
-Password : "https://discord.gg/XeSCnk57ZF"
-Secure : true
-```
-
-```bash
-Host : sg-3.nazha.online
-Port : 443
-Password : "https://discord.gg/XeSCnk57ZF"
-Secure : true
-```
